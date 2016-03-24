@@ -6,8 +6,10 @@ page {
 
 table {
     background-image: url("images/nghgjgfj.jpg");
+    table-layout: fixed;
     border-bottom-color: gold;
     border-style: groove;
+    
     
 }
 
@@ -45,6 +47,17 @@ li {
     
 }
 body {
+        
+    padding: inherit;
+    font-family: "Times New Roman";
+    font-size: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    
+    
+}
+
+menu {
         
     padding: inherit;
     font-family: "Times New Roman";
